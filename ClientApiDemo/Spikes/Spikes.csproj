@@ -50,6 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\Events\EventMetadata.cs" />
     <Compile Include="Model\Customer.cs" />
     <Compile Include="Model\Events\CustomerCreated.cs" />
     <Compile Include="Model\Events\CustomerNameChanged.cs" />
